@@ -1,0 +1,57 @@
+.jumbotron{
+background:url('../img/choosing.jpg') ;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover; 
+    color:white;
+}
+.btn{
+    color:white;
+    background-color: #219af9;
+}
+.btn:hover{
+    background-color:lightslategray;
+}
+.rounded-circle{
+    margin-left:90px;
+}
+input[type="email"], input[type="text"]{
+    height: 39px;
+    border: 3px solid #127acc;
+    margin-top: 7px;
+    padding: 4px 8px;
+    width: 223px;
+}
+textarea{
+    border: 3px solid #127acc;
+    
+}
+input[type="submit"]{
+    background: #127acc;
+    padding: 14px 19px;
+    border: 1px solid #fff;
+    color: #fff;
+   width: 95px;
+}
+input:hover[type="submit"]{
+    background-color:lightslategray;
+}
+.linktop{
+    color:white;
+}
+.footer{
+    margin-top:10px;
+    padding: 2em 0;
+    background-color:lightslategray;
+    color:white;
+}
+.footerlink{
+    color:white;
+    padding-left: 10px;
+    font-size:20px;
+}
+.foot a{
+    font-size: 22px;
+}
